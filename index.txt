@@ -1,1 +1,1 @@
-This is a version control system file.
+This is a version control system tool.
