@@ -1,1 +1,1 @@
-Contain utility function.
+Contain utility function for the file.
