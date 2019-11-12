@@ -1,1 +1,1 @@
-This is a version control system tool.
+This is a version control system tool knows as GIT.
